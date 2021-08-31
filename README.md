@@ -7,6 +7,9 @@
 - 😄 Pronouns: ele
 <div>
   <a href="https://www.instagram.com/arthur_araruna/" target="blank_">Instagram</a>
+  <div>
   <a href="https://www.linkedin.com/in/arthur-araruna-0160081b3/" target="_blank">linkedin</a>
+  </div>
+  <div>
   https://github-readme-stats.vercel.app/api?username=StvenGamaPlay&theme=blue-green
   </div>
