@@ -11,5 +11,5 @@
   <a href="https://www.linkedin.com/in/arthur-araruna-0160081b3/" target="_blank">linkedin</a>
   </div>
   <div>
-  <img height="180cm" src"https://github-readme-stats.vercel.app/api?username=StvenGamaPlay&theme=dracula"
+  <img height="180cm" src"https://github-readme-stats.vercel.app/api?username=StvenGamaPlay&theme=dark"
   </div>
