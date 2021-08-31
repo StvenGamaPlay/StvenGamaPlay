@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-<!--
-**StvenGamaPlay/StvenGamaPlay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning law/ Atualmente estou estudando Direito
+- 👯 I’m looking to collaborate on apps/ Gostaria de ajudar na criação de apps
+- 💬 I speack Portuguese and Spanish/ Eu falo Portugues e Espanhol
+- 📫 How to reach me/Como me achar: arthurararuna3@gmail.com or Discord: Arthur do VRAUM#8461
+- 😄 Pronouns: ele
+<div>
+  <a href="https://www.instagram.com/arthur_araruna/" target="blank_">Instagram</a>
+  <a href="https://www.linkedin.com/in/arthur-araruna-0160081b3/" target="_blank">linkedin</a>
+  https://github-readme-stats.vercel.app/api?username=StvenGamaPlay&theme=blue-green
+  </div>
